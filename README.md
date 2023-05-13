@@ -1,14 +1,13 @@
 # EXP-1 java program to print the Arithmetic operations
-
 # AIM:
-To print the arthimetic operations in java
+To write a java program to print the Arithmetic operations like Addiction, Subtraction, Division, Remainder of two numbers.
 
 # PROCEDURE:
-## Step 1:
-## Step 2:
-## Step 3:
-## Step 4:
-## Step 5:
+1. Import required packages.
+2. Declare main method with the signature "public static void main(String[] args)".
+3. Get two numbers as input.
+4. Perform operations like addition,subtraction,multiplication,division and modulus using the two inputs.
+5. Print the output on display.
 
 # PROGRAM:
 ```
@@ -33,6 +32,9 @@ public class arithmetic {
     }
 }
 ```
+
 # OUTPUT:
 ![image](https://github.com/Evangelin-Ruth/Arithmetic/assets/94219798/138bf301-dd4b-48b9-80ba-41083cda8c05)
 
+# RESULT:
+The java program to print the Arithmetic operations like Addiction, Subtraction, Division, Remainder of two numbers was successfully done.
